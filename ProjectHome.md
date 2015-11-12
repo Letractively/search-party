@@ -1,0 +1,1 @@
+A research tool that lets groups of students in a classroom search together and see an aggregated view of the classroom's activities in the teacher view - which is intended to be projected on a large public display.
